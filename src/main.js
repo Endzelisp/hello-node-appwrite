@@ -27,7 +27,7 @@ export default async ({ req, res, log, error }) => {
   }
 
   return res.json({
-    motto: "Build like a team of hundreds_",
+    motto: "I changed the fucking text once and for all",
     learn: "https://appwrite.io/docs",
     connect: "https://appwrite.io/discord",
     getInspired: "https://builtwith.appwrite.io",
